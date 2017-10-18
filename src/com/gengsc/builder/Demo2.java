@@ -5,7 +5,7 @@ package com.gengsc.builder;
  *
  * 2017年10月17日
  */
-public class Demo {
+public class Demo2 {
 
 	public static void main(String[] args) {
 		
