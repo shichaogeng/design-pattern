@@ -1,4 +1,4 @@
-package com.gengsc.Composite;
+package com.gengsc.composite;
 
 public abstract class AbstractCompany {
     private String name;

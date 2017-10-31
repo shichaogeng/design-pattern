@@ -1,4 +1,4 @@
-package com.gengsc.Composite;
+package com.gengsc.composite;
 
 import java.util.ArrayList;
 import java.util.List;
